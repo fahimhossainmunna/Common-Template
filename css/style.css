@@ -5,6 +5,9 @@
     outline: 0;
     box-sizing: border-box;
 }
+img{
+    vertical-align: middle;
+}
 a,a:hover{
     text-decoration: none;
     display: inline-block;
